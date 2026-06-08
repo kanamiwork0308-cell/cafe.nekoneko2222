@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>https://kanamiwork0308-cell.github.io/cafe.nekoneko2222/</loc>
+  <priority>1.0</priority>
+  <lastmod>2026-06-08T11:56:00+09:00</lastmod>
+</url>
+<url>
+  <loc>https://kanamiwork0308-cell.github.io/index.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://kanamiwork0308-cell.github.io/news.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://kanamiwork0308-cell.github.io/menu.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://kanamiwork0308-cell.github.io/contact.html</loc>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://kanamiwork0308-cell.github.io/</loc>
+  <priority>0.7</priority>
+</url>
+
+</urlset>
